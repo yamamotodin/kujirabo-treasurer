@@ -11,7 +11,7 @@ import (
 
 func main() {
 	cfg, err := config.LoadDefaultConfig(context.TODO(),
-		config.WithRegion("us-west-2"),
+		config.WithRegion("ap-northeast-1"),
 	)
 	if err != nil {
 		fmt.Println("Configuration error", err)
