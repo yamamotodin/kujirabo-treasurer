@@ -1,0 +1,4 @@
+paddleocr~=2.7.3
+
+pillow~=10.3.0
+setuptools~=68.2.2
